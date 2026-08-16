@@ -107,6 +107,7 @@ media_discovered_ordering_title = "Media sorting strategy"
 order_media_smart = "Smart (recommended)"
 order_media_by_newest = "Newest first"
 order_media_by_oldest = "Oldest first"
+languages_title = "Languages"
 settings_subtitles_title = "Preferred subtitle languages"
 settings_audio_tracks_title = "Preferred audio tracks"
 
